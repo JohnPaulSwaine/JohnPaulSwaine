@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohnPaulSwaine
+- 👋 Hi, I’m John-Paul Swaine
 - 👀 I’m interested in Everton, Anime, Coding
 - 🌱 I’m currently learning sofware development
 - 😄 Pronouns: HE/HIM
